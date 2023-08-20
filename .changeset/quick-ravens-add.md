@@ -1,5 +1,5 @@
 ---
-"remix-multi-action": patch
+"remix-intent-action": patch
 ---
 
 Initial no-op function
