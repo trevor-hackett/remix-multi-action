@@ -2,4 +2,4 @@
 "remix-multi-action": patch
 ---
 
-initialized project
+Initial no-op function
